@@ -1,4 +1,4 @@
-// #1 - Two Sum - easy
+// #1 - Two Sum - easy.
 // https://leetcode.com/problems/two-sum/
 
 const twoSum = (nums, target) => {
